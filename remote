@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "native_enabled": true,
+  "app_open_enabled": false,
+  "reward_lock_enabled": true,
+  "ad_units": {
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "app_open": "ca-app-pub-3940256099942544/9257395921"
+  },
+  "locked_features": {
+    "simulasi_angsuran": true,
+    "analisis_angsuran": true,
+    "analisis_biaya": true,
+    "analisis_bunga_biaya": true,
+    "cek_kelayakan": true,
+    "perencanaan_modal": true,
+    "analisis_pembiayaan": true,
+    "tips_umkm_lanjutan": true,
+    "panduan_bunga_ojk": false,
+    "informasi_terbaru": false,
+    "cek_legalitas": false,
+    "faq": false,
+    "kebijakan_privasi": false,
+    "disclaimer": false
+  }
+}
